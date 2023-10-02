@@ -12,9 +12,18 @@
     "Name": "Oluwaferanmi ADENIYI",
     "Nickname": "Pollyanna",
     "Tech Stack": "Design | Transcriber | Social Media Manager",
-    "Experience Level in OSS": "Professional",
+   "Experience Level in OSS": "Professional",
     "Twitter Handle": "@Feranmiayomikun",
     "GitHub Profile": "https://github.com/Victorayo",
     "Which niche would you like contributing too?": "Documentation/Design/Transcribing/Code"
   },
-]
+  {
+    "Name": "IfeOluwa Akanwo",
+    "Nickname": "menorah",
+    "Tech Stack": "Data Science",
+    "Experience Level in OSS": "Beginner",
+    "Twitter Handle": "@men0rah",
+    "GitHub Profile": "https://github.com/menorahh",
+    "Which niche would you like contributing too?": "Documentation/Code"
+  },
+]   
