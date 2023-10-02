@@ -12,4 +12,4 @@ check out this short introduction video from OSCA Ado-Ekiti: https://youtu.be/YA
 
 ![HackToberFest 1](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest2023-Ekiti/assets/85078495/78d1209a-3c3c-4097-81f1-aaf1f81733c0)
 
-# Hacktoberfest2023-Ekiti-DSN
+## Contribute to data science projects
