@@ -2,8 +2,7 @@
 
 1. Fork the repository: forking a repository creates a copy of the repository on your accoount. This allows you to freely experiment changes without affecting the main repository.
 
-![fork](https://github.com/praistarr/Hacktoberfest2023-Ekiti-DSN/assets/53593233/9d2efac6-ac69-425b-86b0-d200790b26d2)
-
+![fork](https://github.com/praistarr/Hacktoberfest2023-Ekiti-DSN/assets/53593233/9f09425a-f873-4263-a0e5-160884d63d7a)
 
 After clicking the fork button in the image above, you'll complete the forking process by clicking the create fork button
 
