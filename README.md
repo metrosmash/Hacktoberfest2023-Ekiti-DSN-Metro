@@ -11,10 +11,10 @@ check out this short introduction video from OSCA Ado-Ekiti: https://youtu.be/YA
 #### 🚀🚀🚀🚀
 
 ## Contribute to Data Science Project
-Consisting of 3 sub project files:
+Consisting of 3 sub project folders:
 1. Standard Data Science Library for everybody. 
-2. Machine Learning Classification Project for      Data Analysts, Machine Learning Engineers /      Data scientists.
-3. Mode detection / Classification for AI/ML        Engineers.
+2. Machine Learning Classification Project for Data Analysts, Machine Learning Engineers / Data scientists.
+3. Mood detection for AI/ML Engineers.
 
 ![HackToberFest 1](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest2023-Ekiti/assets/85078495/78d1209a-3c3c-4097-81f1-aaf1f81733c0)
 
