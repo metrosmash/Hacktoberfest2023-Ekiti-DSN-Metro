@@ -1,6 +1,6 @@
 ## Why Open Source?
 
-https://hacktoberfest-ekiti.web.app/documentation/why-open-source#what-is-open-source
+https://hacktoberfest-ekiti.web.app/documentation/why-open-source
 
 ## What is Hacktoberfest?
 
