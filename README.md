@@ -16,7 +16,7 @@ Consisting of 3 sub project folders:
 2. Machine Learning Classification Project for Data Analysts, Machine Learning Engineers / Data scientists.
 3. Mood detection for AI/ML Engineers.
 
-Select or create an issue you want to work and it will be assigned to you.
+Select or create an issue you want to work on and it will be assigned to you.
 
 ![HackToberFest 1](https://github.com/OSCA-Ado-Ekiti/Hacktoberfest2023-Ekiti-DSN/assets/53593233/af0525d8-431a-4473-a5a9-abc1130ff164)
 
