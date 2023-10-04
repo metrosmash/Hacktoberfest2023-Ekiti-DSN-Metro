@@ -7,7 +7,9 @@ https://hacktoberfest-ekiti.web.app/documentation/why-open-source
 https://hacktoberfest-ekiti.web.app/documentation/why-open-source#what-is-hacktoberfest
 
 ## How to kick-start as a beginner?
-check out this short introduction video from OSCA Ado-Ekiti: https://youtu.be/YA_RVcEGZsg?si=wA-DKBCQnQPbfb4s
+check out this short introduction video from OSCA Ado-Ekiti: 
+https://youtu.be/YA_RVcEGZsg?si=wA-DKBCQnQPbfb4s
+
 #### 🚀🚀🚀🚀
 
 ## Contribute to Data Science Project
